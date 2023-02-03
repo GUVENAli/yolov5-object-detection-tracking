@@ -15,4 +15,3 @@ Locate dataset to the folder of named Challenge
 
 Result of test data is located as test.mp4
 On GTX 1050Ti GPU, elapsed time for one frame is about 20 ms, which is about 50 FPS.
-Weights are included in yolov5/runs path
