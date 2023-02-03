@@ -1,0 +1,6 @@
+train: ./datasets/images/train
+val: ./datasets/images/val
+test: ./datasets/images/test
+
+nc: 2
+names: ['bolt', 'nut']
