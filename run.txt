@@ -1,0 +1,1 @@
+python ./yolov5/detect.py --weights ./yolov5/runs/train/exp/weights/best.pt  --conf 0.8 --view-img --source ./challenge/images/test/test.mp4 --line=1 --imgsz 224
