@@ -19,3 +19,9 @@ To test the code, first and foremost you need to add test video in challenge fol
 
 https://user-images.githubusercontent.com/53269317/216707633-7349f5cc-6367-400d-ab12-335d9c3e8932.mov
 
+# YOLOv5 Weights
+
+Weights are in the zip file shared via drive link below.
+
+https://drive.google.com/file/d/1_rjzMCZGRi0uLnQdXi034Jr9r-LYVgoo/view?usp=share_link
+
